@@ -20,3 +20,4 @@ resource "aws_instance" "Ubuntu1" {
     Name = "Ubuntu"
   }
 }
+
